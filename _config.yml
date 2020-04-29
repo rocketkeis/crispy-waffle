@@ -1,0 +1,58 @@
+title: It Depends
+description: The answer to most of the questions
+author: KC
+github: https://github.com/rocketkeis/crispy-waffle
+about: I do Agile, Software Testing, and Product Owner work.
+#disqus_shortname: stackproblems
+#google_analytics: UA-XXXXXXXX-Y
+
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+#    - icon: fa-facebook
+#      link: "#"
+#    - icon: fa-twitter
+#      link: "#"
+#    - icon: fa-linkedin
+#      link: "#"
+#    - icon: fa-stack-exchange
+#      link: "#"
+    - icon: fa-github
+      link: "https://github.com/rocketeis/crispy-waffle"
+
+#share:
+#  twitter_username: rocketkeis
+#  fb_appid: 1749788565247320
+
+urls:
+    - text: About
+      url: /about/
+#    - text: My Projects
+#      url: /projects/
+#    - text: XML Feed
+#      url: /feed.xml
+
+url: "https://rocketkeis.github.io/crispy-waffle"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
