@@ -1,6 +1,6 @@
 # crispy-waffle
 
-This site used this free and open-source Jekyll theme, [Agus Makmun](https://github.com/agusmakmun/agusmakmun.github.io/), as its starting point.
+This site used this free and open-source Jekyll theme, [Agus Makmun](https://github.com/agusmakmun/agusmakmun.github.io/), as its starting point. That had bugs related to the path when you deploy it in GH pages, but was able to refer to [Panda Cookie](https://github.com/zemmyang/panda-cookie) for changes resolving that.
 
 
 ## Notes Based on Original README
@@ -15,8 +15,9 @@ This site used this free and open-source Jekyll theme, [Agus Makmun](https://git
 ### Installation and Configuration
 
 * [x] Fork this repository
-* [x] Edit site settings inside file of `_config.yml`
-* [ ] Edit about yourself inside file of `about.md`
+* [x] Edit site settings in `_config.yml`
+* [x] Edit about content in `about.md`
+* [x] Change avatar in `static/img/avatar.jpg` (from Panda Cookie)
 * [ ] Edit your projects at file of `projects.md`, `_data/projects.json` and inside path of `_project/` _(for detail project)_.
 * [x] Edit categories inside `category/`
 * [x] Clean up existing entries in `_posts/`
@@ -28,8 +29,6 @@ This site used this free and open-source Jekyll theme, [Agus Makmun](https://git
 Create a corresponding file for the new category inside `category/`.
 
 #### Add New Post
-
-**b. Add new Posts**
 
 Create a corresponding file for the new post inside `_posts/` with filename format: `YYYY-MM-DD-slug-for-title.md`
 
@@ -53,7 +52,7 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 
 ```
 bundle install
-jekyll serve
+jekyll serve  OR bundle exec jekyll serve
 ```
 
 ### Contributing to Agus Makmun

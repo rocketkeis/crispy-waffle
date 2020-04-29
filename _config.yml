@@ -5,6 +5,7 @@ github: https://github.com/rocketkeis/crispy-waffle
 about: I do Agile, Software Testing, and Product Owner work.
 #disqus_shortname: stackproblems
 #google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpg
 
 
 enableTags: true
@@ -39,8 +40,8 @@ urls:
 #    - text: XML Feed
 #      url: /feed.xml
 
-url: "https://rocketkeis.github.io/crispy-waffle"
-baseurl: ""
+url: "https://rocketkeis.github.io"
+baseurl: "/crispy-waffle"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"

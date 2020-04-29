@@ -1,0 +1,7 @@
+@media print {
+
+.PageNavigation, .share-page, .disqus-comments, .panel-body, .sidebar-nav, .search, .social, .fixed-condition, .categories {
+  display: none;
+}
+
+}
