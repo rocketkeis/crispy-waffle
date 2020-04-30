@@ -50,11 +50,19 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 
 ### Installing in Local Environment
 
-```
-bundle install
-jekyll serve  OR bundle exec jekyll serve
-```
+Install [Ruby](https://jekyllrb.com/docs/installation/).
 
-### Contributing to Agus Makmun
+Install Jekyll and Bundler gems.
+`gem install jekyll bundler`
 
-Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
+Go to the project directory, then run:
+`bundle install`
+
+Then to build:
+`jekyll serve` OR `bundle exec jekyll serve`
+
+
+### Credits
+
+* [Agus Makmun](https://github.com/agusmakmun/agusmakmun.github.io/)
+* [Panda Cookie](https://github.com/zemmyang/panda-cookie)
