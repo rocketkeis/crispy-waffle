@@ -50,6 +50,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-relative-links
 
 compress_html:
   clippings: all
@@ -57,3 +58,8 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
+
+# Relative links c/o plugin jekyll-relative-links
+relative_links:
+  enabled:     true
+  collections: true

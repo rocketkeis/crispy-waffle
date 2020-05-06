@@ -9,3 +9,19 @@ tags: [first]                         # (custom) tags only for meta `property="a
 Trying out this Jekyll theme.
 
 This repo is actually created on this day, but the markdown files are just some stuff I have lying around in my folders. The timestamps are not exact since I had only taken note of the dates.
+
+## Inserting images
+
+`<img src="{{ site.baseurl }}/images/best-dogs.jpg" alt="Best Dogs" width="400">`
+
+<img src="{{ site.baseurl }}/images/best-dogs.jpg" alt="Best Dogs" width="400">
+
+`![best dogs]({{ site.baseurl }}/images/best-dogs.jpg)`
+
+![best dogs]({{ site.baseurl }}/images/best-dogs.jpg)
+
+## Inserting links to other posts
+
+`[Which Bugs to Prioritize](2020-04-24-which-bugs-to-prioritize.md)`
+
+[Which Bugs to Prioritize](2020-04-24-which-bugs-to-prioritize.md)
