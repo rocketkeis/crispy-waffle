@@ -2,11 +2,15 @@
 layout: post
 title: Notes from Eric's Career Talk
 date: 2020-05-06 18:00:00 +0800
-categories: [others]
+categories: [other]
 tags: [leadership, career]
 ---
 
-There was an invite for a career discussion that got sent out. This is my reaction post on the notes shared during the talk. But before I go there, before I forget, I think it would have been more helpful if there was some context given in the invite so as to give a picture of how useful or relevant the content will be to the possible audiences. With that off my chest, I'll start reacting now.
+Eric had a talk about career this afternoon via MS Teams. I think it went pretty smoothly. There were minor hiccups like one or two members of the audience momentarily not being on mute, so you got to hear some chickens (or chicken--we'll never know) and other background noises. There was also this slight flicker between the virtual whiteboard and the slide deck whenever Eric was drawing (or maybe it was just my connection).
+
+During the talk, there were notes being shared via the meeting chat by Hana and Roman. So I got those notes and thought of adding in some of my own. Nothing fancy, just stuff at the top of my head.
+
+---
 
 > Two most important things to develop your career
 >
@@ -48,7 +52,7 @@ Don't mistake "Training" to be limited to formal classroom trainings. It also in
 
 > Your performance and value will decline overtime if we don't continue to learn new things (Entropy).
 
-It's also a matter of translating what you learn to something relevant -- be it by giving advice or guidance, providing inputs or ideas when asked, creating a POC, etc.
+It's also a matter of translating what you learn to something relevant and helpful -- be it by giving advice or guidance, providing inputs or ideas when asked, creating a POC, etc.
 
 > 5 Levels of Leadership (John Maxwell)
 > 1. Role / Position
@@ -73,4 +77,4 @@ I often say that work is hard enough as it is... without being compounded with l
 > * Self Development - find your passion, what makes you different, and how you can collaborate.
 > * Leadership - Applies to all levels and roles. This will mamiximize [sic] your potential.
 
-Not knowing what you want in terms of career or in life is OK. Keep trying to figure it out. As Picard said, "One impossible thing at a time."
+Sometimes it's hard to know where your passion lies, or what's your key differentiator, or what you want to do in life. There are some who are still finding themselves. And it's OK not to know or be a hundred percent sure. Just keep trying to figure it out, one step at a time. As Picard said (and maybe this has gone off on a tangent), "One impossible thing at a time."
