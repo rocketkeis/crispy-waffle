@@ -2,7 +2,7 @@
 layout: post
 title: Notes from Eric's Career Talk
 date: 2020-05-06 18:00:00 +0800
-categories: [other]
+categories: [others]
 tags: [leadership, career]
 ---
 
