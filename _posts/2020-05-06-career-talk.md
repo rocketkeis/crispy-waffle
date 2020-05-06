@@ -24,7 +24,7 @@ Apart from what you want, you also have to weigh that against your interests and
 
 > A career is a journey. It's not linear. Be open to learn from it. You cannot do it by yourself--be open to work with people.
 
-Some folks got into IT thinking they'll just have to work with computers. But working with people is inescapable. You have to work with them for getting the requirements, for finding out what their problems are, and then for coming up with solutions, for implementing the solution, for validating the solution, etc.
+Some folks got into IT thinking they'll just have to work with computers. But working with people is inescapable. You have to work with them for getting the requirements, for finding out what their problems are, and then for coming up with solutions, for implementing the solution, for validating the solution, etc. You're in the business of solving problems for _someone_. You'll have to talk to that _someone_, or their representatives, or the people who you'll work with to solve the problem.
 
 > Leadership will unlock your potential. <br/><br/> Getting to a particlar [sic] career path is not a straight line. It will involve branching out and exploration. <br/><br/> Take advantage of the people network that you will build along your journey.
 
